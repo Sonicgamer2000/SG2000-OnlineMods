@@ -1,0 +1,5 @@
+mods/data/wretched/wretched-hard.json
+mods/songs/wretched/Voices.ogg
+mods/songs/wretched/Inst.ogg
+mods/songs/wretched/Voices.ogg
+mods/songs/wretched/inst.ogg
